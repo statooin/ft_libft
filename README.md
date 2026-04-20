@@ -21,7 +21,7 @@ This repository contains a comprehensive re-implementation of core standard C li
 
 Maintaining this archive serves as a testament to my deep-seated understanding of pointer arithmetic, heap memory management, and the internal mechanics of data structures.
 
-## The Engineering Foundation (Why this matters for SRE)
+## The Engineering Foundation
 Before orchestrating global clusters, an engineer must understand the primitives that run inside them. This project built the technical discipline required for high-level SRE roles:
 
 * **Memory Hygiene:** Implementing functions like `ft_bzero` and `ft_calloc` from scratch instills a "Security by Default" mindset. Understanding how to properly initialize and clear memory is the first line of defense against data leakage and exploitation.
